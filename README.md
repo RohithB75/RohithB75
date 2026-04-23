@@ -1,11 +1,14 @@
 # Hi, I'm Rohith B
 
 <p align="center">
-  <a href="https://github.com/RohithB75">
+  <a href="https://github.com/RohithB75" style="display:inline-block; margin: 0 8px;">
     <img src="https://img.shields.io/badge/GitHub-RohithB75-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
-  <a href="https://www.linkedin.com/in/rohithb7/">
+  <a href="https://www.linkedin.com/in/rohithb7/" style="display:inline-block; margin: 0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="mailto:rohithb775@gmail.com" style="display:inline-block; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
 </p>
 
