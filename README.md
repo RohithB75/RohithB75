@@ -4,6 +4,9 @@
   <a href="https://github.com/RohithB75">
     <img src="https://img.shields.io/badge/GitHub-RohithB75-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
+  <a href="https://www.linkedin.com/in/rohithb7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
 </p>
 
 <p align="center">
