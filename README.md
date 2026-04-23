@@ -1,5 +1,10 @@
 # Hi, I'm Rohith B
 
+<div align="center" style="padding: 28px 18px; border-radius: 18px; background: linear-gradient(135deg, #0f172a 0%, #111827 45%, #1f2937 100%); color: #ffffff; margin-bottom: 18px;">
+  <h2 style="margin: 0; font-size: 2.1rem;">Building practical software with clean execution</h2>
+  <p style="margin: 10px 0 0; font-size: 1rem; color: #cbd5e1;">Focused on useful products, thoughtful presentation, and reliable implementation.</p>
+</div>
+
 <p align="center">
   <a href="https://github.com/RohithB75" style="display:inline-block; margin: 0 8px;">
     <img src="https://img.shields.io/badge/GitHub-RohithB75-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
@@ -15,6 +20,14 @@
 <p align="center">
   I build practical software with a focus on useful features, clean implementation, and polished presentation.
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Web</strong><br />HTML, CSS, JavaScript</td>
+    <td align="center"><strong>Data</strong><br />Python, notebooks, analysis</td>
+    <td align="center"><strong>Focus</strong><br />Clean UX and practical builds</td>
+  </tr>
+</table>
 
 ## About Me
 
@@ -41,12 +54,38 @@
 
 ## Featured Projects
 
-- [Chatting-via-Bluetooth](https://github.com/RohithB75/Chatting-via-Bluetooth) - An HTML-based Bluetooth chatting project.
-- [Bloodbank](https://github.com/RohithB75/Bloodbank) - A JavaScript project for managing blood bank related workflows.
-- [extrac-table](https://github.com/RohithB75/extrac-table) - Python tooling for extracting tables from financial statements.
-- [Wellness_Tracker](https://github.com/RohithB75/Wellness_Tracker) - A notebook project for comparing wellness scores across users.
-- [enhancing_images](https://github.com/RohithB75/enhancing_images) - Python work focused on improving low-quality images.
-- [portfolio](https://github.com/RohithB75/portfolio) - A CSS-based portfolio site.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohithB75/Chatting-via-Bluetooth"><strong>Chatting-via-Bluetooth</strong></a><br />
+      HTML-based Bluetooth chatting project with a simple, practical interface.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohithB75/Bloodbank"><strong>Bloodbank</strong></a><br />
+      JavaScript project for managing blood bank related workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohithB75/extrac-table"><strong>extrac-table</strong></a><br />
+      Python tooling for extracting tables from financial statements.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohithB75/Wellness_Tracker"><strong>Wellness_Tracker</strong></a><br />
+      Notebook project for comparing wellness scores across users.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohithB75/enhancing_images"><strong>enhancing_images</strong></a><br />
+      Python work focused on improving low-quality images.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohithB75/portfolio"><strong>portfolio</strong></a><br />
+      CSS-based portfolio site with a clean presentation style.
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
